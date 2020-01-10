@@ -1,4 +1,4 @@
-# Flight-Delays-Visualization-Visdaters
+# Flight-Delays-Visualization-GGVisdaters
 Visualization Data Project
 
 Visualisasi keterlambatan Penerbangan AS dan pembatalan pada Perangkat Lunak Tableau Mengingat pada dataset Penerbangan AS tahun 2015.
